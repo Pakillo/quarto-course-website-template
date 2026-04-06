@@ -1,5 +1,0 @@
----
-title: "Course Title"
----
-
-Course info & details here

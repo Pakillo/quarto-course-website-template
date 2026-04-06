@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Pakillo/quarto-course-website-template/sitemap.xml
+Sitemap: https://Pakillo.github.io/quarto-course-website-template/sitemap.xml
